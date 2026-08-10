@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: live-igry-kazino.github.io
+Sitemap: https://live-igry-kazino.github.io/sitemap.xml
